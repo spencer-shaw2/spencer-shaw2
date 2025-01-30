@@ -1,8 +1,8 @@
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi! My name is Spencer Shaw
 
-## Business Intelligence/Data Science Practitioner
+## Data Scientist
 
-Business Intelligence Analyst at BAE Systems, Inc., that brings a versatile skill set spanning from BI reporting to the development of machine learning solutions. I'm passionate about transforming business processes through innovative data solutions!
+Data Scientist at BAE Systems, Inc., passionate about transforming business processes through generative AI!
 
 *   🌍  I'm based in Jacksonville, FL, United States!
 *   🖥️  Check out my portfolio repo below, or click [here](https://github.com/spencer-shaw2/portfolio_projects/blob/main/README.md)!
